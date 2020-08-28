@@ -13,7 +13,7 @@ description: the encrypted imagination of bluefloyd
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://www.pngitem.com/middle/oTbRmR_insurance-assessment-icon-umbrella-movement-logo-hd-png/
+avatar: https://avatars0.githubusercontent.com/u/69623043?s=460&u=06df79f839b7d053f9008d9528da0b97383d0509&v=4
 
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
@@ -22,10 +22,8 @@ avatar: https://www.pngitem.com/middle/oTbRmR_insurance-assessment-icon-umbrella
 navigation:
   - name: 首頁
     url: /
-  - name: 分類
+  - name: category
     url: /categories.html
-  - name: RSS
-    url: /atom.xml
   - name: 關於
     url: /about.html
   - name: 友情傳送門
@@ -36,22 +34,10 @@ paginate: 20
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  behance: # https://www.behance.net/<username>
-  dribbble:
-  email: terminus2049@protonmail.com
-  facebook:
-  flickr:
-  github: TerminusBot/terminus-jekyll-template
-  googleplus: # anything in your profile username that comes after plus.google.com/
-  instagram:
-  linkedin:
-  telegram: terminus_9402
-  pinterest:
-  rss: atom.xml # just type anything here for a working RSS icon
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  tumblr: # https://<username>.tumblr.com
-  twitter: 2049bbs
-  youtube: # channel/<your_long_string> or user/<user-name>
+  email: lovanitheus@protonmail.com
+  Terminus Github: TerminusBot/terminus-jekyll-template
+  Terminus Telegram: terminus_9402
+  Terminus Twitter: 2049bbs
 
 # Text under the icons in footer
 footer-text: Powered by <a href="https://github.com/TerminusBot/terminus-jekyll-template">TerminusBot</a>
