@@ -26,7 +26,7 @@ navigation:
     url: /categories.html
   - name: 關於
     url: /about.html
-  - name: 友情傳送門
+  - name: 傳送門
     url: /
     
 # Pagination
@@ -34,7 +34,7 @@ paginate: 20
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  email: lovanitheus@protonmail.com
+  bluefloyd Email: lovanitheus@protonmail.com
   Terminus Github: TerminusBot/terminus-jekyll-template
   Terminus Telegram: terminus_9402
   Terminus Twitter: 2049bbs
