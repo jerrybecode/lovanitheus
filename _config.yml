@@ -6,7 +6,7 @@
 name: lovanitheus
 
 # Short bio or description (displayed in the header)
-description: the encrypted of bluefloyd
+description: the encrypted imagination of bluefloyd
 
 #
 # Flags below are optional
@@ -30,7 +30,9 @@ navigation:
     url: /atom.xml
   - name: 关于
     url: /about.html
-
+  - name: 外部链接
+    url: /http://www.cuhk.edu.hk/ics/21c/zh/issues/
+    
 # Pagination
 paginate: 20
 
