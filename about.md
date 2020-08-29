@@ -16,7 +16,8 @@ permalink: /about.html
 
 ### 尋找bluefloyd
 email: lovanitheus@protonmail.com
-Matters: bluefloyd
+
+Matters: [bluefloyd](https://matters.news/@wjw000525)
 
 ### Powered by Terminus
 > Terminus名称来源：“在审判中，谢顿说出他的预言，语惊四座。他计划领导众多学者编辑一本包含全人类知识的《银河百科全书》，以此减缓帝国殒落的后遗症。委员会得知他的计划并非颠覆帝国的阴谋诡计后，将哈里·谢顿的团队连同他的计划放逐到银河系的边缘端点星。”
