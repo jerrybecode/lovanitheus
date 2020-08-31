@@ -10,8 +10,6 @@ categories: Archive
 
 tags: 示例
 
-description: Markdown的语法介绍，很简单很好用是不是？
-
 ---
 
 注：示例来自于 <https://gist.github.com/vvtommy/4200618>
